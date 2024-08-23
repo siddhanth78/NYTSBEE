@@ -1,9 +1,9 @@
-Replace string in GetWords.py
+Replace letter_set and center_l in GetWords.py
 
-Run GetWords.py
+Run GetWords.py. Words will be written to out.txt.
 
-Then run SolveSpellingBee.py
+Run SolveSpellingBee.py to automatically enter words into spelling bee.
 
-Keep NYT Spelling Bee open on the web within 3 seconds of running SolveSpellingBee.py
+Keep spelling bee open on the web within 5 seconds of running SolveSpellingBee.py
 
-Genius guaranteed
+Amazing guaranteed. Genius is not always possible due to obscure words that the program may miss.
