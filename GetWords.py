@@ -4,9 +4,11 @@ dictionary = json.loads(open("words_dictionary.json", 'r').read())
 
 words = set([d for d in dictionary if len(d) > 3])
 
-letter_set = set(list('hapcred'))
+user = input("Enter string of letters: ")
 
-center_l = 'h'
+letter_set = set(list(user))
+
+center_l = input("Enter center letter: ")
 
 valid = []
 
